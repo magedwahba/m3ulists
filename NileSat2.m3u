@@ -1,0 +1,112 @@
+
+
+#EXTINF:-1,MBC1
+
+http://50.7.69.138:1935/live-edge1/6rx53.stream/chunklist.m3u8
+
+#EXTINF:-1,MBC_MAX
+
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+
+#EXTINF:-1,MBC_ACTION
+
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+#EXTINF:-1,MBC_BOLLYWOOD
+
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+#EXTINF:-1,MBC Drama
+
+http://50.7.69.138:1935/live-edge1/6rx50.stream/playlist.m3u8
+
+#EXTINF:-1,MBC3
+
+http://50.7.69.138:1935/live-edge1/6rx47.stream/chunklist.m3u8
+
+#EXTINF:-1,FOX ARABIC
+
+http://50.7.69.138:1935/live-edge1/6rx227.stream/chunklist.m3u8
+
+#EXTINF:-1,FOX MOVIES ARABIC
+
+http://50.7.69.138:1935/live-edge1/6rx147.stream/chunklist.m3u8
+
+#EXTINF:-1,ART HEKAIAT1
+
+http://50.7.69.138:1935/live-edge1/6rx209.stream/chunklist.m3u8
+
+#EXTINF:-1,ART HEKAIAT2
+
+http://50.7.69.138:1935/live-edge1/6rx62.stream/chunklist.m3u8
+
+#EXTINF:-1,Rotana Cinema
+
+http://50.7.69.138:1935/live-edge1/6rx8.stream/chunklist.m3u8
+
+#EXTINF:-1,MOGA COMEDY
+
+http://50.7.69.138:1935/live-edge1/6rx54.stream/chunklist.m3u8
+
+#EXTINF:-1,MELODY
+
+http://50.7.69.138:1935/live-edge1/6rx129.stream/chunklist.m3u8
+
+#EXTINF:-1,AL Aoula
+
+http://50.7.69.138:1935/live-edge1/6rx58.stream/chunklist.m3u8
+
+#EXTINF:-1,2m
+
+http://50.7.69.138:1935/live-edge1/6rx127.stream/chunklist.m3u8
+
+#EXTINF:-1,AlTalita
+
+http://50.7.69.138:1935/live-edge1/6rx172.stream/chunklist.m3u8
+
+#EXTINF:-1,NAHAR TV
+
+http://50.7.69.138:1935/live-edge1/6rx14.stream/chunklist.m3u8
+
+#EXTINF:-1,Dubai
+
+http://50.7.69.138:1935/live-edge1/6rx92.stream/chunklist.m3u8
+
+#EXTINF:-1,Dubai One
+
+http://50.7.69.138:1935/live-edge1/6rx56.stream/chunklist.m3u8
+
+#EXTINF:-1,Sama Dubai
+
+http://50.7.69.138:1935/live-edge1/6rx91.stream/chunklist.m3u8
+
+#EXTINF:-1,Ad Dhabi Al Aoula
+
+http://50.7.69.138:1935/live-edge1/6rx115.stream/chunklist.m3u8
+
+#EXTINF:-1,SAMIRA TV
+rtmp://$OPT:rtmp-raw=rtmp://www.teledunet.net:1935/live playpath=teledunet_tv swfUrl=http://www.teledunet.com/mobile//player.swf?channel=teledunet_tv&user=zmirli16&token=76207467635 live=1 pageUrl=http://www.teledunet.com/mobile/
+
+#EXTINF:-1,nahar_drama
+rtmp://$OPT:rtmp-raw=rtmp://50.7.180.18:1935/elnahar_tv playpath=nahar_drama.stream swfUrl= live=1 pageUrl=
+
+#EXTINF:-1,nahar_sport
+rtmp://$OPT:rtmp-raw=rtmp://50.7.180.18:1935/elnahar_tv playpath=nahar_sport.stream swfUrl= live=1 pageUrl=
+
+#EXTINF:-1,aljazeeraflashlive
+rtmp://$OPT:rtmp-raw=rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live playpath=aljazeera_doc_high swfUrl= live=1 pageUrl=
+
+#EXTINF:-1,fox_movies
+rtmp://$OPT:rtmp-raw=rtmp://162.212.176.107:1935/fox_movies?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM= playpath=globaltv-fox_movies.stream swfUrl= live=1 pageUrl=
+
+#EXTINF:-1,national_geo_ad
+rtmp://$OPT:rtmp-raw=rtmp://162.212.176.107:1935/national_geo_ad playpath=globaltv-national_geo_ad.stream swfUrl= live=1 pageUrl=
+
+#EXTINF:-1,MBC2
+rtmp://$OPT:rtmp-raw=rtmp://live-f01.vustream.net:1935/live playpath=livestream swfUrl= live=1 pageUrl=
+
+#EXTINF:-1,MBC_BOLLYWOOD
+rtmp://$OPT:rtmp-raw=rtmp://63.237.48.3:1935/live playpath=MBC_BOLLYWOOD swfUrl= live=1 pageUrl=
+
+#EXTINF:-1,MBC_ACTION
+rtmp://$OPT:rtmp-raw=rtmp://63.237.48.3:1935/live playpath=MBC_ACTION swfUrl= live=1 pageUrl=

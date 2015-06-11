@@ -1,0 +1,1406 @@
+
+
+#EXTINF:-1,art_aflam_1-dikrayaty.free.fr
+rtmp://162.212.176.107:1935/art_aflam_1/globaltv-art_aflam_1.stream
+#EXTINF:-1,art_aflam_2-dikrayaty.free.fr
+rtmp://162.212.176.107:1935/art_aflam_2/globaltv-art_aflam_2.stream
+#EXTINF:-1,alhayat 1-dikrayaty.free.fr
+rtmp://162.212.176.107:1935/alhayat_1/globaltv-alhayat_1.stream
+#EXTINF:-1,alhayat cinema -dikrayaty.free.fr
+rtmp://162.212.176.107:1935/alhayat_cinema/globaltv-alhayat_cinema.stream
+#EXTINF:-1,rotana_cinema-dikrayaty.free.fr
+rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
+#EXTINF:-1,dream_1-dikrayaty.free.fr
+rtmp://162.212.176.107:1935/dream_1/globaltv-dream_1.stream
+#EXTINF:-1,melody_aflam-dikrayaty.free.fr
+rtmp://162.212.176.107:1935/melody/globaltv-melody.stream
+#EXTINF:-1,zee_alwan-dikrayaty.free.fr
+rtmp://162.212.176.107:1935/zee_alwan/globaltv-zee_alwan.stream
+#EXTINF:-1,fox_movies-dikrayaty.free.fr
+rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
+#EXTINF:-1,Moga_Comedy
+rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream
+#EXTINF:-1,cairo_cinema
+rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
+#EXTINF:-1,cairo_drama
+rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
+#EXTINF:-1,abu_dhabi
+rtmp://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream
+#EXTINF:-1,abu_dhabi_drama
+rtmp://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream
+#EXTINF:-1,national_geo
+rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
+#EXTINF:-1,MBC 3
+rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
+#EXTINF:-1,MBC 4
+rtmp://162.212.176.107/mbc_4/globaltv-mbc_4.stream
+#EXTINF:-1,mbc_max
+rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
+#EXTINF:-1,echorouk tv
+rtmp://162.212.176.107:1935/echorouk_tv/globaltv-echorouk_tv.stream
+#EXTINF:-1,Nile Comedy
+rtmp://162.212.176.107:1935/nile_comedy/globaltv-nile_comedy.stream
+#EXTINF:-1,Nile Drama
+rtmp://162.212.176.107:1935/nile_drama/globaltv-nile_drama.stream
+#EXTINF:-1,Nile Cinema
+rtmp://162.212.176.107:1935/nile_cinema/globaltv-nile_cinema.stream
+#EXTINF:-1,LBC
+rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
+#EXTINF:-1,Alriadia_sport
+rtmp://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream
+#EXTINF:-1,tunisia_national_1
+rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream
+#EXTINF:-1,tunisia_national_2
+rtmp://162.212.176.107:1935/tunisia_national_2/globaltv-tunisia_national_2.stream
+#EXTINF:-1,nessma
+rtmp://162.212.176.107:1935/nessma/globaltv-nessma.stream
+#EXTINF:-1,hanibal
+rtmp://162.212.176.107:1935/hanibal/globaltv-hanibal.stream
+#EXTINF:-1,medi1
+rtmp://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream
+#EXTM3U
+#EXTINF:-1,Arena Sports 1 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/81.ts
+
+#EXTINF:-1,Arena Sports 2 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/82.ts
+
+#EXTINF:-1,Arena Sports 3 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/83.ts
+
+#EXTINF:-1,Arena Sports 4 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/84.ts
+
+#EXTINF:-1,Arena Sports 1 SD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/54.ts
+
+#EXTINF:-1,Arena Sports 2 SD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/55.ts
+
+#EXTINF:-1,Arena Sports 3 SD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/56.ts
+
+#EXTINF:-1,Arena Sports 4 SD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/57.ts
+
+#EXTINF:-1,BBC 1 UK-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/101.ts
+
+#EXTINF:-1,BBC 2 UK-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/102.ts
+
+#EXTINF:-1,Bein Max 4-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/93.ts
+
+#EXTINF:-1,Bein Max 5-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/94.ts
+
+#EXTINF:-1,Bein Sports 1 FR-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/31.ts
+
+#EXTINF:-1,Bein Sports 2 FR-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/36.ts
+
+#EXTINF:-1,Bein Sports 3 FR-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/32.ts
+
+#EXTINF:-1,Bein Sports 11HD 720P-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/133.ts
+
+#EXTINF:-1,Bein Sports 1 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/16.ts
+
+#EXTINF:-1,Bein Sports 2 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/17.ts
+
+#EXTINF:-1,Bein Sports 3 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/18.ts
+
+#EXTINF:-1,Bein Sports 4 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/19.ts
+
+#EXTINF:-1,Bein Sports 5 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/20.ts
+
+#EXTINF:-1,Bein Sports 6 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/21.ts
+
+#EXTINF:-1,Bein Sports 7 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/22.ts
+
+#EXTINF:-1,Bein Sports 8 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/23.ts
+
+#EXTINF:-1,Bein Sports 9 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/24.ts
+
+#EXTINF:-1,Bein Sports 10 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/25.ts
+
+#EXTINF:-1,Bein Sports 11 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/26.ts
+
+#EXTINF:-1,Bein Sports 12 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/27.ts
+
+#EXTINF:-1,Bein Sports 13 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/28.ts
+
+#EXTINF:-1,Bein Sports 14 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/29.ts
+
+#EXTINF:-1,Bein Sports 15 HD-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/30.ts
+
+#EXTINF:-1,Bein Sports 1 LQ Backup-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/114.ts
+
+#EXTINF:-1,Bein Sports 2 LQ Backup-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/115.ts
+
+#EXTINF:-1,Bein Sports 3 LQ Backup-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/116.ts
+
+#EXTINF:-1,Bein Sports 4 LQ Backup-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/117.ts
+
+#EXTINF:-1,Bein Sports 5 LQ Backup-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/118.ts
+
+#EXTINF:-1,Bein Sports 6 LQ Backup-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/119.ts
+
+#EXTINF:-1,Bein Sports 7 LQ Backup-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/120.ts
+
+#EXTINF:-1,Bein Sports 8 LQ Backup-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/121.ts
+
+#EXTINF:-1,Bein Sports 9 LQ Backup-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/122.ts
+
+#EXTINF:-1,Bein Sports 10 LQ Backup-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/123.ts
+
+#EXTINF:-1,Bein Sports 11 LQ Backup-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/124.ts
+
+#EXTINF:-1,Bein Sports 12 LQ Backup-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/125.ts
+
+#EXTINF:-1,Box Nation-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/15.ts
+
+#EXTINF:-1,Bt Sports 1-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/10.ts
+
+#EXTINF:-1,Bt Sports 1 (Backup)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/147.ts
+
+#EXTINF:-1,Bt Sports 2-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/11.ts
+
+#EXTINF:-1,Bt Sports 2 (Backup)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/148.ts
+
+#EXTINF:-1,ESPN UK-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/14.ts
+
+#EXTINF:-1,ESPN USA-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/48.ts
+
+#EXTINF:-1,ESPN 2 USA-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/49.ts
+
+#EXTINF:-1,Eurosport 1-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/12.ts
+
+#EXTINF:-1,Eurosport 2-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/13.ts
+
+#EXTINF:-1,ITV 1 UK-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/103.ts
+
+#EXTINF:-1,ITV 2 UK-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/104.ts
+
+#EXTINF:-1,ITV 3 UK-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/105.ts
+
+#EXTINF:-1,ITV 4 UK-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/106.ts
+
+#EXTINF:-1,Premier Sports-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/9.ts
+
+#EXTINF:-1,Premier Sports (Backup)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/149.ts
+
+#EXTINF:-1,Setanta Ireland-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/8.ts
+
+#EXTINF:-1,Sky Sport 1 HD Deutch Germany-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/88.ts
+
+#EXTINF:-1,Sky Sport 2 HD Deutch Germany-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/89.ts
+
+#EXTINF:-1,Sky Bundesliga HD1-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/38.ts
+
+#EXTINF:-1,Sky Bundesliga HD2-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/39.ts
+
+#EXTINF:-1,Sky Bundesliga HD3-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/40.ts
+
+#EXTINF:-1,Sky Bundesliga HD4-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/41.ts
+
+#EXTINF:-1,Sky Bundesliga HD5-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/42.ts
+
+#EXTINF:-1,Sky Movie (Action&Adventure)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/110.ts
+
+#EXTINF:-1,Sky Movie (Comedy)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/108.ts
+
+#EXTINF:-1,Sky Movie (Crime&Thriller)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/113.ts
+
+#EXTINF:-1,Sky Movie (Drama)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/107.ts
+
+#EXTINF:-1,Sky Movie (Family)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/65.ts
+
+#EXTINF:-1,Sky Movie (Modern Greats)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/109.ts
+
+#EXTINF:-1,Sky Movie (Premiere)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/111.ts
+
+#EXTINF:-1,Sky Movie (SciFi&Horror)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/112.ts
+
+#EXTINF:-1,Sky Movie (Select)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/64.ts
+
+#EXTINF:-1,SkySport 1-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/1.ts
+
+#EXTINF:-1,SkySport 1 (Backup)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/140.ts
+
+#EXTINF:-1,SkySport 2-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/2.ts
+
+#EXTINF:-1,SkySport 2 (Backup)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/141.ts
+
+#EXTINF:-1,SkySport 3-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/3.ts
+
+#EXTINF:-1,SkySport 3 (Backup)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/142.ts
+
+#EXTINF:-1,SkySport 4-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/4.ts
+
+#EXTINF:-1,SkySport 4 (Backup)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/143.ts
+
+#EXTINF:-1,SkySport 5-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/5.ts
+
+#EXTINF:-1,SkySport 5 (Backup)-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/144.ts
+
+#EXTINF:-1,SkySport F1-dikrayaty.free.fr
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/6.ts
+
+#EXTINF:-1,SkySport F1 (Backup)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/145.ts
+
+#EXTINF:-1,SkySport News
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/7.ts
+
+#EXTINF:-1,SkySport News (Backup)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/146.ts
+
+#EXTINF:-1,NFL Network
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/58.ts
+
+#EXTINF:-1,At The Races
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/52.ts
+
+#EXTINF:-1,Racing UK
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/53.ts
+
+#EXTINF:-1,NBC Sports
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/37.ts
+
+#EXTINF:-1,TSN 1
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/34.ts
+
+#EXTINF:-1,TSN 2
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/35.ts
+
+#EXTINF:-1,TSN 3
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/135.ts
+
+#EXTINF:-1,TSN 4
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/136.ts
+
+#EXTINF:-1,TSN 5
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/137.ts
+
+#EXTINF:-1,OTE Sports 1
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/85.ts
+
+#EXTINF:-1,OTE Sports 2
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/86.ts
+
+#EXTINF:-1,OTE Sports 3
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/87.ts
+
+#EXTINF:-1,OTE Sports 4
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/90.ts
+
+#EXTINF:-1,OTE Sports 5
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/91.ts
+
+#EXTINF:-1,OTE Sports 6
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/92.ts
+
+#EXTINF:-1,Sport Klub 1 Serbia
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/66.ts
+
+#EXTINF:-1,Sport Klub 2 Serbia
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/67.ts
+
+#EXTINF:-1,Sport Klub 3 Serbia
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/68.ts
+
+#EXTINF:-1,Sport Klub 1 Croatia
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/71.ts
+
+#EXTINF:-1,Sport Klub 2 Croatia
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/72.ts
+
+#EXTINF:-1,Sport Klub 3 Croatia
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/73.ts
+
+#EXTINF:-1,Sport Plus
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/63.ts
+
+#EXTINF:-1,Canal +
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/97.ts
+
+#EXTINF:-1,Canal + Sport
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/96.ts
+
+#EXTINF:-1,Pac 12 Network
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/138.ts
+
+#EXTINF:-1,Willow Tv (Cricket)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/33.ts
+
+#EXTINF:-1,Canal+ Deportes
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/43.ts
+
+#EXTINF:-1,Canal+ Futbol
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/44.ts
+
+#EXTINF:-1,Canal+ Liga
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/45.ts
+
+#EXTINF:-1,Sky Sport 1 HD Italy
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/50.ts
+
+#EXTINF:-1,Sky Sport 2 HD Italy
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/51.ts
+
+#EXTINF:-1,Btn
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/139.ts
+
+#EXTINF:-1,Channel 1 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/150.ts
+
+#EXTINF:-1,Channel 2 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/151.ts
+
+#EXTINF:-1,Channel 3 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/152.ts
+
+#EXTINF:-1,Channel 4 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/153.ts
+
+#EXTINF:-1,Channel 5 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/154.ts
+
+#EXTINF:-1,Channel 6 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/155.ts
+
+#EXTINF:-1,Channel 7 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/156.ts
+
+#EXTINF:-1,Channel 8 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/157.ts
+
+#EXTINF:-1,Channel 9 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/158.ts
+
+#EXTINF:-1,Channel 10 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/159.ts
+
+#EXTINF:-1,Channel 11 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/160.ts
+
+#EXTINF:-1,Channel 12 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/161.ts
+
+#EXTINF:-1,Channel 13 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/162.ts
+
+#EXTINF:-1,Channel 14 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/163.ts
+
+#EXTINF:-1,Channel 15 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/164.ts
+
+#EXTINF:-1,Channel 16 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/165.ts
+
+#EXTINF:-1,Channel 17 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/166.ts
+
+#EXTINF:-1,Channel 18 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/167.ts
+
+#EXTINF:-1,Channel 19 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/168.ts
+
+#EXTINF:-1,Channel 20 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/169.ts
+
+#EXTINF:-1,Channel 21 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/170.ts
+
+#EXTINF:-1,Channel 22 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/171.ts
+
+#EXTINF:-1,Channel 23 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/172.ts
+
+#EXTINF:-1,Channel 24 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/173.ts
+
+#EXTINF:-1,Channel 25 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/174.ts
+
+#EXTINF:-1,Channel 26 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/175.ts
+
+#EXTINF:-1,Channel 27 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/176.ts
+
+#EXTINF:-1,Channel 28 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/177.ts
+
+#EXTINF:-1,Channel 29 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/178.ts
+
+#EXTINF:-1,Channel 30 (not 24×7)
+
+http://sportztv.net:8000/live/10$monthSubonly/sports@fontsbay.com/179.ts
+
+#EXTINF:-1,beIN SPORT HD1-dikrayaty.free.fr
+rtmp://medias.streaming-hub.com:1946/live/bein_sport_1
+
+#EXTINF:-1,beIN SPORT HD2 -dikrayaty.free.fr
+rtmp://medias.streaming-hub.com:1946/live/bein_sport_2
+
+#EXTINF:-1,beIN SPORT HD3 -dikrayaty.free.fr
+rtmp://medias.streaming-hub.com:1946/live/bein_sport_3
+
+#EXTINF:-1,beIN SPORT HD4-dikrayaty.free.fr
+rtmp://medias.streaming-hub.com:1946/live/bein_sport_4
+
+#EXTINF:-1,beIN SPORT HD5-dikrayaty.free.fr
+rtmp://medias.streaming-hub.com:1946/live/bein_sport_5
+
+#EXTINF:-1,beIN SPORT HD6-dikrayaty.free.fr
+rtmp://medias.streaming-hub.com:1946/live/bein_sport_6
+
+#EXTINF:-1,beIN SPORT HD7 -dikrayaty.free.fr
+rtmp://medias.streaming-hub.com:1946/live/bein_sport_7
+
+#EXTINF:-1,beIN SPORT HD8 -dikrayaty.free.fr
+rtmp://medias.streaming-hub.com:1946/live/bein_sport_8
+
+#EXTINF:-1,beIN SPORT HD9-dikrayaty.free.fr
+rtmp://medias.streaming-hub.com:1946/live/bein_sport_9
+
+#EXTINF:-1,beIN SPORT HD10-dikrayaty.free.fr
+rtmp://medias.streaming-hub.com:1946/live/bein_sport_10
+
+#EXTINF:-1,beIN SPORT HD11(FR1)-dikrayaty.free.fr
+rtmp://medias.streaming-hub.com:1946/live/bein_sport_11
+
+#EXTINF:-1,beIN SPORT HD12(FR2)-dikrayaty.free.fr
+rtmp://medias.streaming-hub.com:1946/live/bein_sport_12
+#EXTINF:-1,art_aflam_1-dikrayaty.free.fr
+rtmp://162.212.176.107:1935/art_aflam_1?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIw.MTUtMDEtMjUtMDAtNDUtMTc=/globaltv-art_aflam_1.stream
+#EXTINF:-1,art_aflam_2-dikrayaty.free.fr
+rtmp://162.212.176.107:1935/art_aflam_2?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIw.MTUtMDEtMjUtMDAtNDUtMTc=/globaltv-art_aflam_2.stream
+#EXTINF:-1,alhayat 1-dikrayaty.free.fr
+rtmp://162.212.176.107:1935/alhayat_1?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIwMTUt.MDEtMjUtMDAtNDUtMTc=/globaltv-alhayat_1.stream
+#EXTINF:-1,alhayat cinema-dikrayaty.free.fr
+rtmp://162.212.176.107:1935/alhayat_cinema?v=a2V5bGl2ZTgzLTQ1LTEwMC.00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-alhayat_cinema.stream
+#EXTINF:-1,rotana_cinema
+rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
+#EXTINF:-1,dream_1
+rtmp://162.212.176.107:1935/dream_1?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIwMTUtMDEt.MjUtMDAtNDUtMTc=/globaltv-dream_1.stream
+#EXTINF:-1,melody_aflam
+rtmpt://162.212.176.107:1935/melody?v=a2V5bGl2ZTgzLTQ1LTEwMy0yODIwMTUtMDEtMjUtMDAtNDUtMTc=/globaltv-melody.stream
+#EXTINF:-1,zee_alwan
+
+http://162.212.176.107:1935/zee_alwan/globaltv-zee_alwan.stream/chunklist_w1436918474.m3u8
+
+#EXTINF:-1,Arabica Music
+
+http://37.48.80.48:1935/arabicalive/arabicatv/chunklist_w525000.m3u8
+
+#EXTINF:-1,fox_movies
+rtmpt://162.212.176.107:1935/fox_movies?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-fox_movies.stream
+#EXTINF:-1,Moga_Comedy
+rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream
+#EXTINF:-1,cairo_cinema
+rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
+#EXTINF:-1,cairo_drama
+rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
+
+#EXTINF:-1,Al Nahar TV
+rtmp://50.7.180.18/elnahar_tv/nahar_tv.stream
+#EXTINF:-1,Al Nahar Youm
+rtmp://50.7.180.18/elnahar_tv/nahar_youm.stream
+#EXTINF:-1,Al-Nahar Drama
+rtmp://50.7.180.18/elnahar_tv/nahar_drama.stream
+#EXTINF:-1,Al Nahar Sport
+rtmp://50.7.180.18:1935/elnahar_tv/nahar_sport.stream
+
+#EXTINF:-1,abu_dhabi
+rtmp://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream
+#EXTINF:-1,abu_dhabi_drama
+rtmp://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream
+#EXTINF:-1,national_geo
+rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
+
+#EXTINF:-1,Dubai
+
+http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
+
+#EXTINF:-1,Noor Dubai
+
+http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/chunklist_b1396736.m3u8?www.ar.tviraq.net
+
+#EXTINF:-1,Dubai RACING
+
+http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/chunklist_b1100000.m3u8?www.ar.tviraq.net
+
+#EXTINF:-1,Sama Dubai
+
+http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai sports
+
+http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
+
+#EXTINF:-1,MBC 1
+
+http://live308.edge.filmon.com/live/367.low.stream/chunklist_w1828162696.m3u8?id=0ad5aac39bb13fbefbe2cd1690e5e4664ac448fcfddcfe819ac986d2711acbfb7c61aa7ff9cf352264835ab9144156a4cf14929d16892c9df9d2e9a865e4cecaac260da74bdcacbe93083e4f604e5a1ae194b2517f1b64d7dd4ae7781c881cada0a52bb426a41d8272dc007c97b7f1813cbc2c6c57b790055acbebb140f61f542525c7a62d5f068dc5db8fa20cb0a998a35364bafef80fe4
+
+#EXTINF:-1,MBC 2
+rtmp://live-f01.vustream.net/live/livestream
+#EXTINF:-1,MBC 3
+rtmpt://162.212.176.107:1935/mbc_3?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=//globaltv-mbc_3.stream
+#EXTINF:-1,MBC 4
+rtmp://162.212.176.107/mbc_4/globaltv-mbc_4.stream
+#EXTINF:-1,MBC_BOLLYWOOD
+rtmp://63.237.48.3:1935/live/MBC_BOLLYWOOD
+#EXTINF:-1,mbc_max
+rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
+#EXTINF:-1,MBC_ACTION
+rtmp://63.237.48.3:1935/live/MBC_ACTION
+#EXTINF:-1,MBC Masr 1
+
+http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,MBC Masr 2
+
+http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel02/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,MBC Sports Pro 1
+
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+
+#EXTINF:-1,MBC Sports Pro 2
+
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+
+#EXTINF:-1,MBC Sports Pro 3
+
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+
+#EXTINF:-1, MBC SPORTS PRO 4
+
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
+
+42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Masriyah
+
+http://8.21.48.26:7777/AlMasriyah/AlMasriyah_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Egypt 2
+
+http://8.21.48.26:7777/AlThanya/AlThanya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1,echorouk tv
+
+http://162.212.176.107:1935/echorouk_tv/globaltv-echorouk_tv.stream/chunklist_w1730907438.m3u8
+
+#EXTINF:-1,ontv
+rtmp://50.7.180.18/elONTV/ontvlive_profile2.stream
+#EXTINF:-1, Abu Dhabi Sports 1
+
+http://8.21.48.26:7777/ADSport/ADSport_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Nile Sport
+
+http://8.21.48.26:7777/NileSport/NileSport_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Nile Tv
+
+http://8.21.48.26:7777/NileInt/NileInt_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Nile Comedy
+rtmpt://162.212.176.107:1935/nile_comedy?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-nile_comedy.stream
+#EXTINF:-1, Nile Drama
+rtmpt://162.212.176.107:1935/nile_drama?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-nile_drama.stream
+#EXTINF:-1, Nile Cinema
+rtmpt://162.212.176.107:1935/nile_cinema?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-nile_cinema.stream
+#EXTINF:-1, Blue Nile
+
+http://8.21.48.26:7777/BlueNile/BlueNile_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1,Baraem
+rtmp://AgendaStreamer2.qna.org.qa/brm//brm?ar.tviraq.net
+#EXTINF:-1, Taha
+
+http://8.21.48.26:7777/Taha/Taha_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Toyor Al Janah
+
+http://8.21.48.26:7777/ToyorAlJanah/ToyorAlJanah_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1,Jeem
+rtmp://AgendaStreamer2.qna.org.qa/jsc//jsc?ar.tviraq.net
+#EXTINF:-1,tom y jerry
+
+http://66.90.111.66:1935/ctv/tom/playlist.m3u8
+
+#EXTINF:-1,alfajertv
+rtmp://vstream2.hadara.ps/unlimitedalfajer//alfajertv_1
+#EXTINF:-1,agyal
+rtmp://46.43.64.162/ajyal//livestream2
+
+#EXTINF:-1,mayadeen
+
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,mayadeen
+rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
+#EXTINF:-1,alalamia
+rtmp://ns8.indexforce.com/alalamia/alalamia
+#EXTINF:-1, OTV Lebanon
+
+http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
+
+#EXTINF:-1, Al Manar
+
+http://8.21.48.26:7777/AlManar/AlManar_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1,Aljadeed
+
+http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
+
+#EXTINF:-1,Echorouk TV
+
+http://162.212.176.107:1935/echorouk_tv/globaltv-echorouk_tv.stream/gmswf.m3u8
+
+#EXTINF:-1,MTV Liban
+rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
+#EXTINF:-1,LBC
+rtmp://162.212.176.107/lbc_europe//globaltv-lbc_europe.stream
+#EXTINF:-1,LBC
+rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2
+#EXTINF:-1,NBN
+rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
+#EXTINF:-1,cna
+rtmp://str81.creacast.com:80/cna/live.sdp
+#EXTINF:-1, Tele Liban
+
+http://8.21.48.26:7777/TeleLiban/TeleLiban_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1,Albadawiyah
+
+http://streamer11.elementssys.com:8080/albadawiyah-800-hdsx/index.m3u8
+
+#EXTINF:-1, Syria Drama
+
+http://8.21.48.26:7777/SyriaDrama/SyriaDrama_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Syria
+
+http://8.21.48.26:7777/SyriaSat/SyriaSat_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Sama Syria
+
+http://8.21.48.26:7777/SamaTV/SamaTV_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Syria Nour
+
+http://8.21.48.26:7777/NourElSham/NourElSham_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Syria Sedu
+
+http://8.21.48.26:7777/SyrianEducation/SyrianEducation_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Syria
+
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+
+#EXTINF:-1, Syria Aloula
+
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+
+#EXTINF:-1, Syria Drama
+
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+
+#EXTINF:-1,Talaqie
+rtmp://82.137.248.20/Talaqie/TalaqieLive2
+#EXTINF:-1,Syrian Educational TV
+rtmp://82.137.248.16/Snews/SnewsLive1
+#EXTINF:-1,Alikhbaria Syria
+rtmp://82.137.248.16/Snews/SnewsLive1
+
+#EXTINF:-1,sahraa
+rtmp://79.134.137.65/live//Sahraa.stream
+#EXTINF:-1,sahraa2
+rtmp://79.134.137.65:1935/liveS2/Sahraa2.stream
+#EXTINF:-1,sahraa 3
+rtmp://navigatorsjo.com/amjad/amjad.stream
+#EXTINF:-1,Sahar TV 1
+rtsp://sahar1.live.hypercdn.com/live-35895787/sahartv1-512.sdp
+#EXTINF:-1,Iqraatv
+
+http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
+
+#EXTINF:-1,Alriadia_sport
+
+http://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream/chunklist_w573046591.m3u8
+
+#EXTINF:-1, BahrainSport
+
+http://8.21.48.26:7777/BahrainSport/BahrainSport_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, alkass
+
+http://8.21.48.26:7777/AlDawriAlKassSport/AlDawriAlKassSport_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, TRT Arabic
+
+http://8.21.48.26:7777/TRTArabic/TRTArabic_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Russia Alyaum
+
+http://8.21.48.26:7777/RussiyaAlYaum/RussiyaAlYaum_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, BBC Arabic
+
+http://8.21.48.26:7777/BBCArabic/BBCArabic_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, CCTV Arabic
+
+http://8.21.48.26:7777/CCTVArabia/CCTVArabia_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Moustakilla
+
+http://8.21.48.26:7777/AlMustakila/AlMustakila_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Algeria 3
+
+http://8.21.48.26:7777/Thalitha/Thalitha_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Hanibal
+
+http://8.21.48.26:7777/Hannibal/Hannibal_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Tunisia national 1
+
+http://8.21.48.26:7777/Tunisie7/Tunisie7_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Medi 1 Sat
+
+http://8.21.48.26:7777/Medi1/Medi1_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Nessma
+
+http://8.21.48.26:7777/Nessma/Nessma_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, AlGeria
+
+http://8.21.48.26:7777/CanalAlgerie/CanalAlgerie_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, 2M
+
+http://8.21.48.26:7777/M2Morocco/M2Morocco_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Maghribia
+
+http://8.21.48.26:7777/AlMaghribia/AlMaghribia_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Abu Dhabi
+
+http://8.21.48.26:7777/ADAlOula/ADAlOula_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Arrabia
+
+http://8.21.48.26:7777/Arrabiaa/Arrabiaa_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Assadissa
+
+http://8.21.48.26:7777/Assadissa/Assadissa_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Tamazigh Maroc
+
+http://8.21.48.26:7777/Tamazight/Tamazight_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1,Alriadia Sport
+
+http://8.21.48.26:7777/Arryadia/Arryadia_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Sudan TV
+
+http://8.21.48.26:7777/Sudan/Sudan_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Libya 2
+
+http://8.21.48.26:7777/Libya/Libya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Libya
+
+http://8.21.48.26:7777/AlAhrar/AlAhrar_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Mauritanie
+
+http://8.21.48.26:7777/MauritaniaTV/MauritaniaTV_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Quran TV ksa
+
+http://8.21.48.26:7777/AlQuran/AlQuran_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Iqra
+
+http://8.21.48.26:7777/Iqraa/Iqraa_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al-Resalah
+
+http://8.21.48.26:7777/AlResala/AlResala_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Majd
+
+http://8.21.48.26:7777/AlmajdSpace/AlmajdSpace_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, KSA 2
+
+http://8.21.48.26:7777/KSA2/KSA2_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Ikhbaria
+
+http://8.21.48.26:7777/AlEkhbariya/AlEkhbariya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Ajyal
+
+http://8.21.48.26:7777/AjyalTV/AjyalTV_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Rasheed
+
+http://8.21.48.26:7777/AlRasheed/AlRasheed_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Kuwait
+
+http://8.21.48.26:7777/KuwaitSpace/KuwaitSpace_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Funoon
+
+http://8.21.48.26:7777/Funoon/Funoon_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, alwatan
+
+http://8.21.48.26:7777/Alwatan/Alwatan_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Alwatan Plus
+
+http://8.21.48.26:7777/AlwatanPlus/AlwatanPlus_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, GearOne
+
+http://8.21.48.26:7777/GearOne/GearOne_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Sharjah
+
+http://8.21.48.26:7777/SharjahTV/SharjahTV_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Fatafeat
+
+http://8.21.48.26:7777/Fatafeat/Fatafeat_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, KTV2
+
+http://8.21.48.26:7777/KTV2Kuwait/KTV2Kuwait_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Bahrain
+rtmp://alayam.netromedia.net/btv2/btv2
+#EXTINF:-1,Bahrain TV
+rtmp://asish.flashmediacast.com:2135/live//Channel-55
+#EXTINF:-1,Bahrain Sports
+rtmp://asish.flashmediacast.com:2135/live//Sports
+#EXTINF:-1, Bahrain
+
+http://8.21.48.26:7777/Bahrain/Bahrain_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_9634154&session=ecd31818d193f6528a1f7174d4dc2f859125f1ab2640a4e44dd911d619458da8a299017ce29bf1aa&hlsid=HLS_2487419
+
+#EXTINF:-1,Al yawm
+
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+
+#EXTINF:-1, Qatar
+
+http://8.21.48.26:7777/Qatar/Qatar_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, AlJazeera
+
+http://8.21.48.26:7777/AlJazeera/AlJazeera_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Yemen
+
+http://8.21.48.26:7777/Yemen/Yemen_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Roya
+
+http://8.21.48.26:7777/Roya/Roya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Palestine
+
+http://8.21.48.26:7777/Palestinian/Palestinian_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Alqudis
+
+http://8.21.48.26:7777/Alquds/Alquds_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Baghdadia
+
+http://8.21.48.26:7777/AlBaghdadia/AlBaghdadia_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Sharqiya
+
+http://8.21.48.26:7777/AlSharqiya/AlSharqiya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Sharqiya News
+
+http://8.21.48.26:7777/AlsharqiyaNews/AlsharqiyaNews_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al-hurra Iraq
+
+http://8.21.48.26:7777/AlhurraIraq/AlhurraIraq_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Aliraqiya
+
+http://8.21.48.26:7777/AlIraqiya/AlIraqiya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Masar
+
+http://8.21.48.26:7777/AlMasar/AlMasar_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Tayba
+
+http://8.21.48.26:7777/Tayba/Tayba_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Libya AlWataniya
+
+http://8.21.48.26:7777/LibyaAlWataniya/LibyaAlWataniya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Djibouti
+
+http://8.21.48.26:7777/RTD/RTD_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Eqtisadiyah
+
+http://8.21.48.26:7777/AlEqtisadiyah/AlEqtisadiyah_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Thakafiyah
+
+http://8.21.48.26:7777/AlThakafiyah/AlThakafiyah_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Amaken Drama
+
+http://8.21.48.26:7777/AlAmakenDrama/AlAmakenDrama_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Kout
+
+http://8.21.48.26:7777/AlKout/AlKout_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Ajman
+
+http://8.21.48.26:7777/Ajman/Ajman_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, DM
+
+http://8.21.48.26:7777/DM/DM_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Aden
+
+http://8.21.48.26:7777/Aden/Aden_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Sheba
+
+http://8.21.48.26:7777/Sheba/Sheba_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Shaab
+
+http://8.21.48.26:7777/AlShaab/AlShaab_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Eman
+
+http://8.21.48.26:7777/AlEman/AlEman_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Sabah
+
+http://8.21.48.26:7777/AlSabah/AlSabah_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Ordonia
+
+http://8.21.48.26:7777/AlOrdoni/AlOrdoni_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Haqeeqa
+
+http://8.21.48.26:7777/AlHaqeeqa/AlHaqeeqa_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Zweina Bladna
+
+http://8.21.48.26:7777/ZweinaBaladna/ZweinaBaladna_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Alaqsa
+
+http://8.21.48.26:7777/AqsaSatCh/AqsaSatCh_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Palestine AlYawm
+
+http://8.21.48.26:7777/PalestineAlYawm/PalestineAlYawm_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Palestine Live
+
+http://8.21.48.26:7777/PalestineLive/PalestineLive_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Baghdad
+
+http://8.21.48.26:7777/Baghdad/Baghdad_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Rafidain
+
+http://8.21.48.26:7777/AlRafidain/AlRafidain_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Fayhaa
+
+http://8.21.48.26:7777/AlFayhaa/AlFayhaa_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Aldiyar
+
+http://8.21.48.26:7777/AldiyarSat/AldiyarSat_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Forat
+
+http://8.21.48.26:7777/AlForat/AlForat_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Beladi
+
+http://8.21.48.26:7777/Beladi/Beladi_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Saudia Sport
+
+http://8.21.48.26:7777/AlRiyadiah/AlRiyadiah_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Goan
+
+http://8.21.48.26:7777/GoanTV/GoanTV_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Libya Sport 1
+
+http://8.21.48.26:7777/LibyaSportChannel1/LibyaSportChannel1_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Neelain Sport
+
+http://8.21.48.26:7777/NeelainSport/_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, iFilm Arabic
+
+http://8.21.48.26:7777/iFilm/iFilm_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Sumaria
+
+http://8.21.48.26:7777/Alsumaria/Alsumaria_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Anwar
+
+http://8.21.48.26:7777/AlAnwar/AlAnwar_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Music+
+
+http://8.21.48.26:7777/MusicPlus/MusicPlus_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, AlBabeleyia
+
+http://8.21.48.26:7777/AlBabeleyia/AlBabeleyia_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Massaya
+
+http://8.21.48.26:7777/Massaya/Massaya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Nojoom1
+
+http://8.21.48.26:7777/Nojoom1/Nojoom1_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al oula Maroc
+
+http://8.21.48.26:7777/AlAoulaEurope/AlAoulaEurope_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Aghanina
+
+http://8.21.48.26:7777/Aghanina/Aghanina_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al sahraa
+
+http://8.21.48.26:7777/AlSahraa/AlSahraa_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Jordan
+
+http://8.21.48.26:7777/GamarHashimi/GamarHashimi_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, KTV Sport Plus
+
+http://8.21.48.26:7777/KTV3Plus/KTV3Plus_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, KSA 1
+
+http://8.21.48.26:7777/SaudiArabia1/SaudiArabia1_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Al Iraqiya Documentary
+
+http://8.21.48.26:7777/AlIraqAlTarbawiyah/AlIraqAlTarbawiyah_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Mehwar
+
+http://8.21.48.26:7777/ElMehwar/ElMehwar_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, Oman
+
+http://8.21.48.26:7777/Oman/Oman_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1, ABN
+
+http://8.21.48.26:7777/ABN/ABN_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_3770811&session=dd1e8b229139e20d7ec42048e42e9d8d8675c5460c65478968027f518ab0e849&hlsid=HLS_3798712
+
+#EXTINF:-1,tunisia_national_1
+rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream
+#EXTINF:-1,tunisia_national_2
+rtmp://162.212.176.107:1935/tunisia_national_2/globaltv-tunisia_national_2.stream
+#EXTINF:-1,nessma
+rtmp://162.212.176.107:1935/nessma/globaltv-nessma.stream
+#EXTINF:-1,hanibal
+rtmp://162.212.176.107:1935/hanibal/globaltv-hanibal.stream
+
+#EXTINF:-1,ALJAZEERA
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
+#EXTINF:-1,aljazeera_mubasher
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_mubasher2_high
+#EXTINF:-1,alarabiya
+
+http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
+
+#EXTINF:-1,ANN
+rtmp://ns8.indexforce.com/ann/ann
+#EXTINF:-1,El sharq
+
+http://tvlive.web.tv.streamprovider.net/akamairecordrtmp/f2d0f879a3a93c43b5a6e05b2510fe24_liveRecord_0_0/chunklist.m3u8
+
+#EXTINF:-1,Mekameleen
+
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist_w1605057224_b1600000.m3u8
+
+#EXTINF:-1,misr alaan
+rtmp://wowzacontrol.com/8028//802

@@ -1,0 +1,615 @@
+#EXTINF:-1,FOX tv
+http://edge.ailetv.net/org1/foxtr_me/playlist.m3u8
+#EXTINF:-1,Planet çocuk
+http://edge.ailetv.net/org1/planetcocuk_me/playlist.m3u8
+#EXTINF:-1,Planet Mutfak
+http://edge.ailetv.net/org1/planetmutfak_me/playlist.m3u8
+#EXTINF:-1,PowerTürk
+http://edge.ailetv.net/org10/powerturktv_me/playlist.m3u8
+#EXTINF:-1,Sports TV
+http://edge.ailetv.net/org10/sportstv_me/playlist.m3u8
+#EXTINF:-1,NTV
+http://edge.ailetv.net/org11/ntvtr_me/playlist.m3u8
+#EXTINF:-1,Kanal D
+http://edge.ailetv.net/org12/kanald_me/playlist.m3u8
+#EXTINF:-1,Minika çocuk
+http://edge.ailetv.net/org12/minikacocuk_me/playlist.m3u8
+#EXTINF:-1,Fashion TV
+http://edge.ailetv.net/org16/fashiontv_me/playlist.m3u8
+#EXTINF:-1,Planet mutfak
+http://edge.ailetv.net/org16/planetturk_me/playlist.m3u8
+#EXTINF:-1,Samanyolu
+http://edge.ailetv.net/org16/samanyolutv_me/playlist.m3u8
+#EXTINF:-1,Akilli TV
+http://edge.ailetv.net/org17/akillitv_me/playlist.m3u8
+#EXTINF:-1,A Spor
+http://edge.ailetv.net/org18/aspor_me/playlist.m3u8
+#EXTINF:-1,SkyTurk 360
+http://edge.ailetv.net/org18/skyturk360_me/playlist.m3u8
+#EXTINF:-1,TRT Music
+http://edge.ailetv.net/org18/trtmusic_me/playlist.m3u8
+#EXTINF:-1,Cine 5
+http://edge.ailetv.net/org2/cine5_me/playlist.m3u8
+#EXTINF:-1,ATV tv
+http://edge.ailetv.net/org3/atv_me/playlist.m3u8
+#EXTINF:-1,Kanal 7
+http://edge.ailetv.net/org3/kanal7_me/playlist.m3u8
+#EXTINF:-1,TRT Avaz
+http://edge.ailetv.net/org4/trtavaz_me/playlist.m3u8
+#EXTINF:-1,TV 8 int
+http://edge.ailetv.net/org4/tv8_me/playlist.m3u8
+#EXTINF:-1,Yumurcak TV
+http://edge.ailetv.net/org4/yumurcaktv_me/playlist.m3u8
+#EXTINF:-1,TMB
+http://edge.ailetv.net/org5/tmbtv_me/playlist.m3u8
+#EXTINF:-1,TRT 1
+http://edge.ailetv.net/org5/trt1_me/playlist.m3u8
+#EXTINF:-1,TRT çocuk
+http://edge.ailetv.net/org5/trtcocuk_me/playlist.m3u8
+#EXTINF:-1,TRT Spor
+http://edge.ailetv.net/org6/trtspor_me/playlist.m3u8
+#EXTINF:-1,ANS TV
+http://edge.ailetv.net/org7/anstv_me/playlist.m3u8
+#EXTINF:-1,NTV Spor
+http://edge.ailetv.net/org8/ntvspor_me/playlist.m3u8
+#EXTINF:-1,Star TV
+http://edge.ailetv.net/org8/startv_me/playlist.m3u8
+#EXTINF:-1,E2
+http://edge.ailetv.net/org9/e2_me/playlist.m3u8
+
+#EXTINF:-1,TURK_FAVORI:D HD -1280*720 m3u8
+http://212.224.108.80/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1,TURK_FAVORI:SEMERKAND HD m3u8
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/HasBahCa.m3u8
+#EXTINF:-1,TURK_FAVORI:TRT 1 HD.m3u8 852*480
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_1_HD.m3u8
+#EXTINF:-1,TURK_FAVORI:TRT COCUK HD.m3u8  1280*720
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_COCUK_HD.m3u8
+#EXTINF:-1,TURK_FAVORI:TRT HABER HD.m3u8  1280*720
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_HABER_HD.m3u8
+#EXTINF:-1,TURK_FAVORI:TRT HD.m3u8  1280*720
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_HD.m3u8
+#EXTINF:-1,TURK_FAVORI:TRT SPOR HD.m3u8 1280*720
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_SPOR_HD.m3u8
+#EXTINF:-1,TURK_FAVORI:TRT TURK HD.m3u8 1280*720
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_TURK_HD.m3u8
+#EXTINF:-1,TURK_FAVORI:ÜLKE TV HD m3u8 -720*500
+http://livetr.gostream.nl/ulketvhq/ulketvhq/HasBahCa.m3u8
+#EXTINF:-1,TURK_ULUSAL:D HD -1280*720 m3u8
+http://212.224.108.80/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1,TURK_ULUSAL:Kanal D HD m3u8 1280*720
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1,TURK_ULUSAL:KANAL D HD m3u8 1280*720
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_KANALD_HD.m3u8
+#EXTINF:-1,TURK_ULUSAL:Kanal D HD m3u8 720*576
+http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1,TURK_ULUSAL:SEMERKAND HD m3u8
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/HasBahCa.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT 1 HD.m3u8 852*480
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_1_HD.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT COCUK HD
+http://pvr.tvip.ga/0811.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT COCUK HD.m3u8  1280*720
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_COCUK_HD.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT HABER HD
+http://pvr.tvip.ga/0803.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT HABER HD.m3u8  1280*720
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_HABER_HD.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT HD
+http://pvr.tvip.ga/0805.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT HD m3u8
+http://si.trtcdn.com/tv/trthd/mp4:trthd_3/chunklist_w1940192687.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT HD.m3u8  1280*720
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_HD.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT MÜZIK HD
+http://pvr.tvip.ga/0809.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT MUZIK HD.m3u8 1280*720
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_MUZIK_HD.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT SPOR HD
+http://pvr.tvip.ga/0807.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT SPOR HD.m3u8 1280*720
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_SPOR_HD.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT TÜRK HD
+http://pvr.tvip.ga/0813.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT TURK HD.m3u8 1280*720
+http://hasbahcaiptv.com/iptv/tr/HasBahCa_TRT_TURK_HD.m3u8
+#EXTINF:-1,TURK_ULUSAL:TRT1 HD
+http://pvr.tvip.ga/0801.m3u8
+#EXTINF:-1,TURK_ULUSAL:ÜLKE TV HD m3u8 -720*500
+http://livetr.gostream.nl/ulketvhq/ulketvhq/HasBahCa.m3u8
+#EXTINF:-1,SPOR:BeIN Sports 1 HD English
+http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8
+#EXTINF:-1,SPOR:BeIN Sports 1 HD Spanish
+http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8
+#EXTINF:-1,SPOR:BeIN Sports 2 HD
+http://195.154.227.38:1935/live/bein2frlsh/HasBahCa.m3u8
+#EXTINF:-1,SPOR:Portugal-SPORT TV 1 HD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/47.m3u8
+#EXTINF:-1,SPOR:RUS 1 Football HD
+http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,SPOR:RUS Football 2 HD
+http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,SPOR:RUS Football 3 HD
+http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,SPOR:RUS Our Football HD
+http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,SPOR:Spain:Canal+Liga HD
+http://2.136.44.117:4022/udp/239.0.9.129:8208
+#EXTINF:-1,SPOR:Spain:Eurosport HD
+http://2.136.44.117:4022/udp/239.0.9.135:8208
+#EXTINF:-1,SPOR:Ukraina:Eurosport HD (EN)
+http://78.30.254.43:8989/udp/239.0.0.195:4000
+#EXTINF:-1,SPOR:Ukraina:HD Sport
+http://78.30.254.43:8989/udp/239.0.0.117:4000
+#EXTINF:-1,SPOR:Ukraina:NTV+ Futbol 1HD
+http://78.30.254.43:8989/udp/239.0.0.169:4000
+#EXTINF:-1,SPOR:Ukraina:NTV+ Futbol2 HD
+http://78.30.254.43:8989/udp/239.0.0.235:4000
+#EXTINF:-1,SPOR:Ukraina:Sport1 HD
+http://78.30.254.43:8989/udp/239.0.0.237:4000
+#EXTINF:-1,SPOR:USA:SPORTES 5 HD
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1,SPOR:USA:SPORTES 6 HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1,SPOR:USA-PAC 12 Bay Area (HD)
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,SPOR:USA-Pac 12 Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,SPOR:USA-PAC 12 Oregon (HD)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,Muzik:BRASIL First Music HD 1080p
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1,Muzik:DJING Dance Floor HD 720
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,Muzik:DJING Hot Hot Hot HD 720
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:-1,Muzik:DJING Ibiza HD 720
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1,Muzik:ESP_LATINO:MTV LIVE HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+#EXTINF:-1,Muzik:ESP_LATINO:TELEHIT HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
+#EXTINF:-1,Muzik:FRANSA:Best Music HD
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1,Muzik:FRANSA:MTV Live HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8
+#EXTINF:-1,Muzik:Mezzo Live HD 1080
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2
+#EXTINF:-1,Muzik:MTV Live HD 1080
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?
+#EXTINF:-1,Muzik:MTV.am HD 1080
+http://mtvam.ru/hlsam/playlist.m3u8
+#EXTINF:-1,Muzik:One Classic HD 720
+rtmp://91.201.78.3:1935/live/classicshd
+#EXTINF:-1,Muzik:One Dance HD 720
+rtmp://91.201.78.3:1935/live/dancehd
+#EXTINF:-1,Muzik:One Jazz HD 720
+rtmp://91.201.78.3:1935/live/jazzhd
+#EXTINF:-1,Muzik:One Live Mix HD 720
+rtmp://91.201.78.3:1935/live/onehdhd
+#EXTINF:-1,Muzik:One Pop HD 720
+rtmp://91.201.78.3:1935/live/pophd
+#EXTINF:-1,Muzik:One Rock HD 720
+rtmp://91.201.78.3:1935/live/rockhd
+#EXTINF:-1,Muzik:PL ESKA Best Music HD 720p
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1,Muzik:Spain First Music HD 1080p
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1,Muzik:Spain:First Music HD 1080p
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1,Muzik:Ultra Fiesta HD 720
+http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
+#EXTINF:-1,Muzik:Vevo TV 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,Muzik:Vevo TV 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,Muzik:Vevo TV 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,Muzik:VEVO US/CA 1 HD
+http://pvr.tvip.ga/9002.m3u8
+#EXTINF:-1,Muzik:VEVO US/CA 2 HD
+http://pvr.tvip.ga/9004.m3u8
+#EXTINF:-1,Muzik:VEVO US/CA 3 HD
+http://pvr.tvip.ga/9006.m3u8
+#EXTINF:-1,Muzik:VH1 L.A HD 1080
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?
+#EXTINF:-1,Muzik:VM Channel HD 720
+http://msk1.peers.tv/streaming/tvmchannel/126/tvrec/playlist.m3u8
+#EXTINF:-1,WEBCAM:Bulgaria - Plozhdiv, jk Hr. Botev street Komatevsko road rtsp
+rtsp://91.191.213.52:554/live_mpeg4.sdp
+#EXTINF:-1,WEBCAM:Hamburg Germany HD rtmp://$OPT:rtmp
+rtmp://$OPT:rtmp-raw=rtmp://video1.earthcam.com/fecnetwork/3847fairmont.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1
+#EXTINF:-1,WEBCAM:Hillsboro Beach FL United States HD rtmp://$OPT:rtmp
+rtmp://$OPT:rtmp-raw=rtmp://video1.earthcam.com/fecnetwork/4135.flv.flv pageUrl=http://www.earthcam.com swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1
+#EXTINF:-1,Switzerland:S1 HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0081.m3u8
+#EXTINF:-1,Switzerland:SRF 1 HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0076.m3u8
+#EXTINF:-1,Switzerland:SRF zwei HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0078.m3u8
+#EXTINF:-1,Switzerland:Tele Züri HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0084.m3u8
+#EXTINF:-1,Switzerland:TV24 HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0082.m3u8
+#EXTINF:-1,DEUTSCH:3sat HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0014.m3u8
+#EXTINF:-1,DEUTSCH:Anixe HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0067.m3u8
+#EXTINF:-1,DEUTSCH:arte HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0012.m3u8
+#EXTINF:-1,DEUTSCH:BR HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0022.m3u8
+#EXTINF:-1,DEUTSCH:Das Erste HD m3u8 1280*738
+http://de.hd.tvip.ga/daserste.m3u8
+#EXTINF:-1,DEUTSCH:DAS ERSTE HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0002.m3u8
+#EXTINF:-1,DEUTSCH:Das neue TV HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0100.m3u8
+#EXTINF:-1,DEUTSCH:eins|plus HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0060.m3u8
+#EXTINF:-1,DEUTSCH:einsfestival HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0062.m3u8
+#EXTINF:-1,DEUTSCH:HR HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0026.m3u8
+#EXTINF:-1,DEUTSCH:KiKA HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0047.m3u8
+#EXTINF:-1,DEUTSCH:MDR HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0020.m3u8
+#EXTINF:-1,DEUTSCH:N24 HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0033.m3u8
+#EXTINF:-1,DEUTSCH:NDR Hamburg HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0107.m3u8
+#EXTINF:-1,DEUTSCH:NDR HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0016.m3u8
+#EXTINF:-1,DEUTSCH:NDR Meck.-Vorp. HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0109.m3u8
+#EXTINF:-1,DEUTSCH:NDR Niedersachsen HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0111.m3u8
+#EXTINF:-1,DEUTSCH:NDR Schleswig-Hol. HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0113.m3u8
+#EXTINF:-1,DEUTSCH:NRW TV HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0104.m3u8
+#EXTINF:-1,DEUTSCH:ORF 2 HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0073.m3u8
+#EXTINF:-1,DEUTSCH:ORF eins HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0071.m3u8
+#EXTINF:-1,DEUTSCH:Phoenix HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0030.m3u8
+#EXTINF:-1,DEUTSCH:RBB HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0028.m3u8
+#EXTINF:-1,DEUTSCH:ServusTV HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0039.m3u8
+#EXTINF:-1,DEUTSCH:SWR HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0024.m3u8
+#EXTINF:-1,DEUTSCH:tagesschau24 HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0064.m3u8
+#EXTINF:-1,DEUTSCH:VEVO DE HD
+http://pvr.tvip.ga/9008.m3u8
+#EXTINF:-1,DEUTSCH:WDR HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0018.m3u8
+#EXTINF:-1,DEUTSCH:ZDF HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0004.m3u8
+#EXTINF:-1,DEUTSCH:ZDF HD m3u8 1280*738
+http://de.hd.tvip.ga/zdf.m3u8
+#EXTINF:-1,DEUTSCH:ZDFinfo HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0058.m3u8
+#EXTINF:-1,DEUTSCH:ZDFkultur HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0056.m3u8
+#EXTINF:-1,DEUTSCH:ZDFneo HD m3u8 1280*738
+http://hasbahcaiptv.com/iptv/de/0054.m3u8
+#EXTINF:-1,INT_OTHERS:Antena 3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,INT_OTHERS:Azteca Noticias HD
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,INT_OTHERS:FASHION HD
+http://113.160.49.34/lives/origin03/fashionhd.isml/fashionhd-2096k.m3u8
+#EXTINF:-1,INT_OTHERS:HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1,INT_OTHERS:La ***ta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_***ta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,INT_OTHERS:Nova HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
+#EXTINF:-1,INT_OTHERS:Per:AMERICA TV HD
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+#EXTINF:-1,INT_OTHERS:Tve 24h HD
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,INT_MMS:MBC HD
+mms://vod.mokpombc.co.kr/encoder-tv
+#EXTINF:-1,USA:DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1,USA:FILM ZONE HD (US)
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:-1,USA:Fox 1 HD (US)
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1,USA:FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1,USA:FOX MOVIES HD (US)
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1,USA:RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+#EXTINF:-1,USA:SPORTES 7 HD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,ARABIC:Al-Baghdadia 2
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+#EXTINF:-1,ARABIC:Baghdad tv
+http://streamer1.hamuraabi.com:1935/baghdad/live/HasBahCa.m3u8
+#EXTINF:-1,ARABIC:IRAN ONYX HD
+http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
+#EXTINF:-1,ARABIC_2:Al Baghdadia
+http://185.56.30.127:8082/TV4359
+#EXTINF:-1,PAKISTAN:Bindas HD Explore TV Zee TVBindas Play Explore TV Zee TV
+http://yupptvrtmp-lh.akamaihd.net/i/nwk9_46@196625/index_1000_av.m3u8
+#EXTINF:-1,PAKISTAN:Star Plus HD
+http://yupptvrtmp-lh.akamaihd.net/i/blore3_starplusus70@135403/master.m3u8
+#EXTINF:-1,VIETNAM:SCTV Hai HD
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:sctvhaihd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,CHINA:QQ ????HD
+http://zb.v.qq.com:1863/?progid=100003601
+#EXTINF:-1,FRANSA:6ter HD
+http://pvr.tvip.ga/0229.m3u8
+#EXTINF:-1,FRANSA:arte HD
+http://pvr.tvip.ga/0215.m3u8
+#EXTINF:-1,FRANSA:Best Music HD
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1,FRANSA:Canal 9 HD
+http://httpstream.canal9.ch/canal9live.m3u8
+#EXTINF:-1,FRANSA:Chérie 25 HD
+http://pvr.tvip.ga/0232.m3u8
+#EXTINF:-1,FRANSA:France 2 HD
+http://pvr.tvip.ga/0204.m3u8
+#EXTINF:-1,FRANSA:HD1
+http://stream4.latvdefrance.com/demo/hd1.m3u8
+#EXTINF:-1,FRANSA:HD1 HD
+http://pvr.tvip.ga/0227.m3u8
+#EXTINF:-1,FRANSA:L'Equipe 21 HD
+http://pvr.tvip.ga/0228.m3u8
+#EXTINF:-1,FRANSA:M6 HD
+http://pvr.tvip.ga/0209.m3u8
+#EXTINF:-1,FRANSA:MTV Live HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8
+#EXTINF:-1,FRANSA:Numéro 23 HD
+http://pvr.tvip.ga/0230.m3u8
+#EXTINF:-1,FRANSA:Party Tv HD
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1,FRANSA:RMC Découverte HD
+http://pvr.tvip.ga/0231.m3u8
+#EXTINF:-1,FRANSA:Rock Tv HD
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1,FRANSA:RTS Deux HD
+http://pvr.tvip.ga/0213.m3u8
+#EXTINF:-1,FRANSA:RTS Un HD
+http://pvr.tvip.ga/0211.m3u8
+#EXTINF:-1,FRANSA:TF1 HD
+http://stream4.latvdefrance.com/demo/tf1.m3u8
+#EXTINF:-1,FRANSA:TF1 HD
+http://pvr.tvip.ga/0202.m3u8
+#EXTINF:-1,FRANSA:VOX Music HD
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:-1,FRANSA:Weo (hd)
+rtmp://str81.creacast.com:80/weo/high
+#EXTINF:-1,Serbia_Croatia:N1 Info BiH (HD)
+http://best.str.n1info.com:8080/stream?channel=n1hdbih?stream=hd?u=n1info
+#EXTINF:-1,Serbia_Croatia:N1 Info Srbija (HD)
+http://best.str.n1info.com:8080/stream?channel=n1hdsrb?stream=hd?u=n1info
+#EXTINF:-1,ROMANYA+MOLDOVA:Digi 24 HD
+http://82.76.249.77/digi24edge/digi24hdhqhls/HasBahCa.m3u8
+#EXTINF:-1,ROMANYA+MOLDOVA:MBC HD
+http://87.248.160.8/edge/smil:mbc/HasBahCa.m3u8
+#EXTINF:-1,ROMANYA+MOLDOVA:Moldova Sport HD
+http://87.248.160.8/edge/smil:boet/HasBahCa.m3u8
+#EXTINF:-1,SKANDINAV:Kanal 11 HD
+http://188.138.9.228:8011
+#EXTINF:-1,SKANDINAV:Kanal 12 HD
+http://188.138.9.228:8012
+#EXTINF:-1,SKANDINAV:Kanal 5 HD
+http://188.138.9.228:8005
+#EXTINF:-1,SKANDINAV:SJUAN HD
+http://188.138.9.228:8007
+#EXTINF:-1,SKANDINAV:YLE1 HD
+http://proxy1.telkkarista.com/554e4a10febb6c574bead84a.1144eb7d/live/yletv1_1080p.m3u8
+#EXTINF:-1,SKANDINAV:YLE2 HD
+http://proxy1.telkkarista.com/554e4a10febb6c574bead84a.1144eb7d/live/yletv2_1080p.m3u8
+#EXTINF:-1,ISRAIL-HEBREW:10 news HD
+http://nana10live-lh.akamaihd.net/i/ch10news_0@93049/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,ISRAIL-HEBREW:Canal 10 HD 720 Israel
+http://nana10live-lh.akamaihd.net/i/ch10news_0@93049/master.m3u8
+#EXTINF:-1,ISRAIL-HEBREW:Canal 2 HD 720 Israel
+http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8
+#EXTINF:-1,ITALYA:RSI LA 1 HD
+http://pvr.tvip.ga/0602.m3u8
+#EXTINF:-1,ITALYA:RSI LA 2 HD
+http://pvr.tvip.ga/0604.m3u8
+#EXTINF:-1,POLSKI:TVP 1 HD
+http://95.215.233.11:4022/udp/239.255.2.189:1234
+#EXTINF:-1,POLSKI:TVP 2 HD
+http://95.215.233.11:4022/udp/239.255.2.190:1234
+#EXTINF:-1,Magyar:Duna HD_400 kbps
+http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist_w979916724_b400000_t64MTgwcCBNb2JpbGUgTG93.m3u8
+#EXTINF:-1,Magyar:Duna HD_800 kbps
+http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist_w979916724_b800000_t64MjcwcCBNb2JpbGUgSGlnaA==.m3u8
+#EXTINF:-1,Magyar:FIX hd
+rtmp://video.fixhd.tv/fix/hd.stream
+#EXTINF:-1,Magyar:M2 HD m3u8
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
+#EXTINF:-1,YUNAN-GREEK:NERIT HD
+http://206.222.31.146/et1
+#EXTINF:-1,Ukraina:112 Ukraina HD
+http://78.30.254.43:8989/udp/239.0.0.216:4000
+#EXTINF:-1,Ukraina:1HD
+http://78.30.254.43:8989/udp/239.0.0.114:4000
+#EXTINF:-1,Ukraina:Animal Planet HD (EN)
+http://78.30.254.43:8989/udp/239.0.0.129:4000
+#EXTINF:-1,Ukraina:Discovery Showcase HD (EN)
+http://78.30.254.43:8989/udp/239.0.0.119:4000
+#EXTINF:-1,Ukraina:Eurosport HD (EN)
+http://78.30.254.43:8989/udp/239.0.0.195:4000
+#EXTINF:-1,Ukraina:HD Kino
+http://78.30.254.43:8989/udp/239.0.0.116:4000
+#EXTINF:-1,Ukraina:HD Kino 2
+http://78.30.254.43:8989/udp/239.0.0.236:4000
+#EXTINF:-1,Ukraina:HD Life
+http://78.30.254.43:8989/udp/239.0.0.118:4000
+#EXTINF:-1,Ukraina:HD Sport
+http://78.30.254.43:8989/udp/239.0.0.117:4000
+#EXTINF:-1,Ukraina:History Channel HD (EN)
+http://78.30.254.43:8989/udp/239.0.0.246:4000
+#EXTINF:-1,Ukraina:Hromadske TV HD
+http://78.30.254.43:8989/udp/239.0.0.250:4000
+#EXTINF:-1,Ukraina:iQ HD
+http://78.30.254.43:8989/udp/239.0.0.186:4000
+#EXTINF:-1,Ukraina:MGM HD (orig.)
+http://78.30.254.43:8989/udp/239.0.0.104:4000
+#EXTINF:-1,Ukraina:MTV Live HD
+http://78.30.254.43:8989/udp/239.0.0.196:4000
+#EXTINF:-1,Ukraina:Nat Geo Wild HD (EN)
+http://78.30.254.43:8989/udp/239.0.0.168:4000
+#EXTINF:-1,Ukraina:Nickelodeon HD (EN)
+http://78.30.254.43:8989/udp/239.0.0.128:4000
+#EXTINF:-1,Ukraina:NTV HD
+http://78.30.254.43:8989/udp/239.0.0.229:4000
+#EXTINF:-1,Ukraina:NTV+ Futbol 1HD
+http://78.30.254.43:8989/udp/239.0.0.169:4000
+#EXTINF:-1,Ukraina:NTV+ Futbol2 HD
+http://78.30.254.43:8989/udp/239.0.0.235:4000
+#EXTINF:-1,Ukraina:Russia HD
+http://78.30.254.43:8989/udp/239.0.0.164:4000
+#EXTINF:-1,Ukraina:Sport1 HD
+http://78.30.254.43:8989/udp/239.0.0.237:4000
+#EXTINF:-1,Ukraina:TLC HD (EN)
+http://78.30.254.43:8989/udp/239.0.0.247:4000
+#EXTINF:-1,Ukraina:Tonis HD
+http://78.30.254.43:8989/udp/239.0.0.217:4000
+#EXTINF:-1,Ukraina:Travel Channel HD (EN)
+http://78.30.254.43:8989/udp/239.0.0.248:4000
+#EXTINF:-1,Georgia:Silk 1 HD 1920*1080
+http://80.77.52.6:4314/udp/226.0.0.7:12345
+#EXTINF:-1,Georgia:Silk 3 HD 1920*1080
+http://80.77.52.6:4314/udp/226.0.0.9:12345
+#EXTINF:-1,Georgia:Silk 4 HD 1920*1080
+http://80.77.52.6:4314/udp/226.0.0.10:12345
+#EXTINF:-1,RUS:Eurosport HD
+http://edge.ailetv.net/org20/eurosporthd_me/playlist.m3u8
+#EXTINF:-1,RUS:History HD
+http://edge.ailetv.net/org20/historyhd_me/playlist.m3u8
+#EXTINF:-1,RUS:Life HD
+http://edge.ailetv.net/org20/lifehd_me/playlist.m3u8
+#EXTINF:-1,RUS:National Geographic HD
+http://edge.ailetv.net/org20/natgeohd_me/playlist.m3u8
+#EXTINF:-1,RUS:National Geographic Wild HD
+http://edge.ailetv.net/org19/natgeowildhd_me/playlist.m3u8
+#EXTINF:-1,RUS:National GeographicWILD HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEOWILD/variant.m3u8
+#EXTINF:-1,RUS:Travel Channel HD
+http://edge.ailetv.net/org20/travelchannelhd_me/playlist.m3u8
+#EXTINF:-1,RUS:VIP TV HD
+http://edge.ailetv.net/org20/viptvhd_me/playlist.m3u8
+#EXTINF:-1,RUS:???? HD
+http://edge.ailetv.net/org20/kinohd_me/playlist.m3u8
+#EXTINF:-1,RUS:?????? HD
+http://edge.ailetv.net/org20/perviyhd_me/playlist.m3u8
+#EXTINF:-1,RUS:?????? HD
+http://edge.ailetv.net/org20/rossiyahd_me/playlist.m3u8
+#EXTINF:-1,RUS:????? 1 HD
+http://edge.ailetv.net/org20/sport1hd_me/playlist.m3u8
+#EXTINF:-1,AFRIKA:tvchd
+http://162.212.176.83:8080/tvchd.stream.m3u8
+#EXTINF:-1,Amerika_Latino:AMERICA TV HD (Perú)
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+#EXTINF:-1,Amerika_Latino:ARG AMERICA TV HD
+http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8
+#EXTINF:-1,Amerika_Latino:ARG CANAL 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1,Amerika_Latino:ARG EL TRECE HD
+http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8
+#EXTINF:-1,Amerika_Latino:ARG TELEFE HD
+http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8
+#EXTINF:-1,Amerika_Latino:ARG TV PUBLICA HD
+http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8
+#EXTINF:-1,Amerika_Latino:ARG:America TV HD 720
+http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
+#EXTINF:-1,Amerika_Latino:ARG:Canal 4 HD 720 Jujuy
+rtmp://streaming.wirenetserver.com.ar/canal4/live_1
+#EXTINF:-1,Amerika_Latino:ARG:El Trece HD 720
+http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8
+#EXTINF:-1,Amerika_Latino:ARG:Telpin Canal 2 HD 720 Pinamar
+rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
+#EXTINF:-1,Amerika_Latino:Canal 9 Bio Bio HD 720
+http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8?MegaIPTVArgentina
+#EXTINF:-1,Amerika_Latino:CHILE:La Red HD 720
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u
+#EXTINF:-1,Amerika_Latino:CHILE:MEGA HD 720
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+#EXTINF:-1,Amerika_Latino:Dom:TELEANTILLAS 2 HD
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1,Amerika_Latino:Per:AMERICA TV HD
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+#EXTINF:-1,Amerika_Latino:PERU:Andina TV HD 720
+http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
+#EXTINF:-1,Amerika_Latino:TEN Canal 10 HD 720 Honduras
+rtmp://hd.worldkast.com:1935/8378/_definst_/mp4:83781
+#EXTINF:-1,Amerika_Latino:TiVa HD 720 Puerto Rico
+http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292
+#EXTINF:-1,Spain:Antena 3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,Spain:AXN HD
+http://2.136.44.117:4022/udp/239.0.9.131:8208
+#EXTINF:-1,Spain:AXN White HD
+http://2.136.44.117:4022/udp/239.0.5.79:8208
+#EXTINF:-1,Spain:Canal+Liga HD
+http://2.136.44.117:4022/udp/239.0.9.129:8208
+#EXTINF:-1,Spain:Comedy Central HD
+http://2.136.44.117:4022/udp/239.0.0.174:8208
+#EXTINF:-1,Spain:Cosmo HD
+http://2.136.44.117:4022/udp/239.0.5.71:8208
+#EXTINF:-1,Spain:Cuatro HD
+http://2.136.44.117:4022/udp/239.0.0.177:8208
+#EXTINF:-1,Spain:Discovery HD
+http://2.136.44.117:4022/udp/239.0.5.77:8208
+#EXTINF:-1,Spain:Disney Channel HD
+http://2.136.44.117:4022/udp/239.0.0.173:8208
+#EXTINF:-1,Spain:Eurosport HD
+http://2.136.44.117:4022/udp/239.0.9.135:8208
+#EXTINF:-1,Spain:First Music HD 1080p
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1,Spain:FOX Crime HD
+http://2.136.44.117:4022/udp/239.0.5.86:8208
+#EXTINF:-1,Spain:FOX HD
+http://2.136.44.117:4022/udp/239.0.9.134:8208
+#EXTINF:-1,Spain:Holywood HD
+http://2.136.44.117:4022/udp/239.0.5.76:8208
+#EXTINF:-1,Spain:i24 News HD
+http://2.136.44.117:4022/udp/239.0.0.220:8208
+#EXTINF:-1,Spain:la***ta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_***ta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,Spain:MEGA HD
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
+#EXTINF:-1,Spain:MGM HD
+http://2.136.44.117:4022/udp/239.0.9.132:8208
+#EXTINF:-1,Spain:Nat Geo Wild HD
+http://2.136.44.117:4022/udp/239.0.9.136:8208
+#EXTINF:-1,Spain:Odisea HD
+http://2.136.44.117:4022/udp/239.0.5.82:8208
+#EXTINF:-1,Spain:Syfy HD
+http://2.136.44.117:4022/udp/239.0.5.75:8208
+#EXTINF:-1,Spain:TCM HD
+http://2.136.44.117:4022/udp/239.0.5.89:8208
+#EXTINF:-1,Spain:TNT HD
+http://2.136.44.117:4022/udp/239.0.5.87:8208
+#EXTINF:-1,Spain:TNT HD
+http://2.136.44.117:4022/udp/239.0.5.74:8208
+#EXTINF:-1,Spain:Unitel Clasica HD
+http://2.136.44.117:4022/udp/239.0.9.137:8208
+#EXTINF:-1,Spain:Viajar HD
+http://2.136.44.117:4022/udp/239.0.5.73:8208
+#EXTINF:-1,BRASIL:First Music HD 1080p
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1,BRASIL:TV Escola HD 720 Brasil
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+#EXTINF:-1,BRASIL:TVE HD 720 Brasil
+rtmp://stream2.ba.gov.br/livepkgr//pgm-1?adbe-live-event=irdeb?
+#EXTINF:-1,BRASIL:VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:-1,Mexico:UNO TV HD 720 México
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
+#EXTINF:-1,Portugal:SPORT TV 1 HD
+http://37.59.45.208:1234/live/clikmega/@gmail.com/47.m3u8
